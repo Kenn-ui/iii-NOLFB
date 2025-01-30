@@ -19,7 +19,7 @@ export default function HomeScreen() {
       }
     >
       <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">NOLFB</ThemedText>
+        <ThemedText type="title">NOLFb</ThemedText>
       </ThemedView>
 
       <View>
